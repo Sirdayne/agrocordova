@@ -1,0 +1,7 @@
+
+www
+node_modules
+.idea
+.DS_Store
+platforms/android/.gradle/3.3/taskArtifacts/fileHashes.bin
+platforms/android/.gradle/3.3/taskArtifacts/taskArtifacts.lock
